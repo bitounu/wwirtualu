@@ -7,24 +7,26 @@ W 2021 będzie ich ponad miliard z czego 54% Chiny, 18% USA, 15% Azja bez Chin.
 ---
 ### Wiedza wstępna:
 #### Timeline
-W 1942 start rakiet V2 obserwowany dzięki kamerom CCTV.
-W USA początek komercyjnego CCTV to 1947.
-W 1951 pierwszy magnetowid.
-W 1960 angielska policja użyła kamer na Trafalgar Square by chronić królewską parę z Tajlandii.
-W 1966 pierwszy patent na domowy CCTV, Marie Van Brittan Brown.
-Pierwsza kamera cyfrowa, firmy Axis w 1996.
+
+- W 1942 start rakiet V2 obserwowany dzięki kamerom CCTV.
+
+- W USA początek komercyjnego CCTV to 1947.
+- W 1951 pierwszy magnetowid.
+- W 1960 angielska policja użyła kamer na Trafalgar Square by chronić królewską parę z Tajlandii.
+- W 1966 pierwszy patent na domowy CCTV, Marie Van Brittan Brown.
+- Pierwsza kamera cyfrowa, firmy Axis w 1996.
 
 Ilość CCTV (Anglia)
-1990 - Trzy projekty w centrum miasta ze 100 kamerami
-1994 - 16 projektów w centrum miasta z 400 kamerami
-1994 - 1997 Home Office przekazuje 38 milionów funtów na finansowanie 585 programów CCTV
-1997 - 167 schematów z ponad 5200 kamerami
-1996 - 1998 CCTV stanowi ponad trzy czwarte całkowitych wydatków na zapobieganie przestępczości
-1999-2003 170 milionów funtów na CCTV
+- 1990 - Trzy projekty w centrum miasta ze 100 kamerami
+- 1994 - 16 projektów w centrum miasta z 400 kamerami
+- 1994 - 1997 Home Office przekazuje 38 milionów funtów na finansowanie 585 programów CCTV
+- 1997 - 167 schematów z ponad 5200 kamerami
+- 1996 - 1998 CCTV stanowi ponad trzy czwarte całkowitych wydatków na zapobieganie przestępczości
+- 1999-2003 170 milionów funtów na CCTV
 
 Ilość w świecie:
-W 2014	245 mln
-W 2019	770 mln
+- W 2014	245 mln
+- W 2019	770 mln
 
 ---
 ### Ale w czym problem? Co potrafią te kamery?:
