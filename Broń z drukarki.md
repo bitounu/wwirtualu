@@ -38,4 +38,13 @@ Drukarki CNC z w 80% gotowymi prefabrykatami gotowymi do obrobienia  całkiem au
 
 <https://ghostgunner.net/>
 
-Linki: http://www.nowastrategia.org.pl/metody-pozyskania-nielegalnej-broni-palnej/
+Video:
+test Liberatora: https://youtu.be/wMyMLMkh0PU?t=121
+rewolwer: https://youtu.be/7RUZsCewg14?t=21
+strzelanie z broni: https://youtu.be/JmY8JgCZJuQ?t=281
+reklama Ghost Gunner: https://youtu.be/jsvIBeGbJDA
+
+
+
+Linki:
+http://www.nowastrategia.org.pl/metody-pozyskania-nielegalnej-broni-palnej/
